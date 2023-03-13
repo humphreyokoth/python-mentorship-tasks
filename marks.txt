@@ -1,0 +1,8 @@
+Student Name: humphrey okoth
+Academic Year: 2019
+Course Unit: name
+Course Code: 122
+Final Test and Coursework Marks: 22.0
+Final Exam Marks: 24.0
+Total Marks: 46.0
+Result: Fail
