@@ -1,3 +1,6 @@
+from final_exam import coursework
+
+
 def tests(test1, test2):
     if test1 >= test2:
         return test1
@@ -20,7 +23,7 @@ if not name.isalpha():
 elif not all(20 <= mark <= 100 for mark in [test1, test2, course_work_mark, exammark]):
     print("Marks should be between 20 and 100")
 else:
-    final_grade = course_work(course_work_mark)
+    final_grade = coursework(course_work_mark)
     print(final_grade)
     with open('final_exam.txt', 'w') as file:
         file.write(final_grade)
